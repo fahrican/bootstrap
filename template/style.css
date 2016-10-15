@@ -1,0 +1,25 @@
+//CSS StyleSheet
+
+body{
+
+	padding-top: 80px !important;
+}
+
+#mylogo{
+
+}
+
+.navbar-brand{
+
+	color: #419641 !important;	
+}
+
+.navbar-toggle{
+
+	color: #FFF !important;
+	background-color: #419641 !important;	
+}
+
+.icon-bar{
+   background-color: #FFF !important;
+}
