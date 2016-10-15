@@ -1,0 +1,91 @@
+h1, h2{
+	text-transform: uppercase;
+	letter-spacing: 1em;
+}
+
+nav{
+	background-color:#818181;
+	height:50px;
+	padding: 0 250px;
+}
+
+nav h1{
+	float:left;			
+	color:#fff;			
+	padding:0.6em;
+	margin:0;
+	font-size:1.5em;
+	font-weight:normal;
+}
+
+nav ul.navbar-nav{
+	float:right !important;		
+}
+
+nav ul li a,nav ul li a:active, nav ul li a:hover{	
+	color:#abf13c;
+	font-weight:bold;
+}
+
+header{
+	background-image:url('../res/images/bg.jpg');
+	background-repeat:repeat-x;
+	background-position:bottom;
+	text-align:center;
+	color:#8cb110;
+	padding:180px 0;
+	font-size:5.5em;
+}
+
+header p{
+	color:#adadad;
+	text-transform: lowercase;
+	font-size:0.5em;
+}		
+
+header a{
+	color:#fff;
+	background-color:#8cb110;
+	font-weight:bold;
+	display:block;
+	margin:auto;
+	width:150px;
+	height:55px;
+	border:3px solid #8cb110;
+	border-radius:10px;
+	line-height:50px;
+	vertical-align:middle;
+	font-size:0.2em;
+}
+
+main{
+	background-color:#efefef;
+	padding:100px 250px;
+}
+
+main h2{
+	margin:1em 0;
+	text-align:center;
+	clear:both;
+}
+
+main h3{
+	margin-top:0;
+	font-weight:bold;
+	clear:both;
+}
+
+main img {
+	float: left;
+}
+
+footer h4{
+	margin-top:1.5em;
+	font-weight:bold;
+}
+
+footer{
+	padding:70px 250px;
+	background-color:#818181;
+	color:#fff;
+}
